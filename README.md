@@ -1,3 +1,4 @@
 # NinjaCopy
-Powershell to copy ntds.dit
-need Administrator
+-Powershell to copy ntds.dit
+
+-need Administrator
